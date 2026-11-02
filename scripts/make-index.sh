@@ -31,9 +31,9 @@ gen_hashes(){ local alg="$1"; shift; local f; for f in "$@"; do [ -f "$f" ] || c
   local size; size=$(wc -c < "$f" | tr -d ' '); local h;
   case "$alg" in md5) h=$(md5sum "$f"|awk '{print $1}');; sha256) h=$(sha256sum "$f"|awk '{print $1}');; esac
   printf ' %s  %s %s\n' "$h" "$size" "$f"; done; }
-{ echo "Origin: https://github.com/xiaomo1994/xiaomo1994.github.io/pulls?q=is%3Apr+state%3Aclosed+author%3Axiaomo1994"; echo "Label: https://github.com/xiaomo1994/xiaomo1994.github.io/pulls?q=is%3Apr+state%3Aclosed+author%3Axiaomo1994"; echo "Suite: stable"; echo "Version: 1.0";
+{ echo "Origin: https://github.com/xiaomo1994/xiaomo1994.github.io/branches"; echo "Label: https://github.com/xiaomo1994/xiaomo1994.github.io/branches"; echo "Suite: stable"; echo "Version: 1.0";
   echo "Codename: ios"; echo "Architectures: iphoneos-arm64 iphoneos-arm64e"; echo "Components: main";
-  echo "Description: https://github.com/xiaomo1994/xiaomo1994.github.io/pulls?q=is%3Apr+state%3Aclosed+author%3Axiaomo1994"; echo "Support: $REPO_URL";
+  echo "Description: https://github.com/xiaomo1994/xiaomo1994.github.io/branches"; echo "Support: $REPO_URL";
   # Icon 必须写绝对地址：Sileo/Zebra 只认 Release 里的 Icon 行，不会自己去找 CydiaIcon.png
   echo "Icon: ${REPO_URL%/}/CydiaIcon.png";
   echo "MD5Sum:"; gen_hashes md5 Packages Packages.gz; echo "SHA256:"; gen_hashes sha256 Packages Packages.gz; } > Release
