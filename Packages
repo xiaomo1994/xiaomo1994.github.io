@@ -1,3 +1,21 @@
+Package: com.yourepo.axs.screenshellpro
+Architecture: iphoneos-arm64e
+Version: 5.2.0-62
+Maintainer: Axs <qiaozhani000@163.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: debs/ScreenShellPro_5.2.0-62已授权.deb
+Size: 78650
+MD5sum: 1cb1a7556ce440d56efa49520750188e
+SHA1: f6fd9d091936f09d1e69b7924e0c254089c5c69c
+SHA256: de60719b551b33015b347c171e218f05259c164cac51d89a5f361d51fc521047
+SHA512: 349df1cc8efb7b375819366c9b1a1990fd013f73eac6691503900ac9c33cee1aa924abf50ff5820d69898e9a8f7f516eb718aae3a74005b9687fde5809989eb5
+Section: 其它
+Description: 专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。插件需要授权才能使用。授权请联系微信：VCR66T* 1. 录屏套壳渲染极快。* 2. 渲染过程中手机不发烫。* 3. 插件不需要任何依赖。* 4. 本插件是目前市面上最好的录屏套壳渲染工具。
+Name: ScreenShell Pro
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/screenshellpro.png
+
 Package: com.axs.cpufree
 Architecture: iphoneos-arm64
 Version: 5.2.0-5
@@ -30,3 +48,42 @@ Name: CPU Free
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/cpufree.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
+
+Package: byg.iosios.net.mango
+Architecture: iphoneos-arm64
+Version: 1.0-Beta4-2
+Maintainer: 搬运工
+Installed-Size: 3548
+Depends: mobilesubstrate
+Filename: debs/mango芒果分屏_交流版.deb
+Size: 904692
+MD5sum: 969650aa86b79df6a8bfc2781401e33f
+SHA1: 231ba8ad1dd69258cf6a8fc119bcbd841b7f8e00
+SHA256: 265643a62b7a25f80b8cc24cc41d4d3d76f425d70a9409e63f753cbfcfc5b559
+SHA512: c3d1ce24aac3e3edbb54c8089c28fadb8885bf3488b85945c3dc48dfcea2d75a892ca8fa12980e79c98bf81bca731b9f9c9b76f21c9372c109e4ace1ec6afd50
+Section: 其它
+Description: 一款非常不错的分屏插件，需要授权才能使用，但是免费功能可以液态玻璃 视频壁纸 双击锁屏 音量键锁屏等等，还是可以的，大家可以自行看看是否是自己需要的，觉得不错的可以支持一下！
+Name: Mango芒果分屏
+Author: go
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.rein.keygen
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Maintainer: Rein
+Installed-Size: 232
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0)
+Filename: debs/动态岛激活码生成器.deb
+Size: 100734
+MD5sum: 83a1bb5f77342badeb50dadd63c8b70b
+SHA1: 55f706669749d9190823cd9de4526d5b98649a71
+SHA256: b90857a8591070caf98414b082b4148e65043ed951d0b731ec791c0ff6d11246
+SHA512: bccd8ca2544f597f7888f09ee29ab528daa1036c2b8fc747064bddbe8e9be642d522e1900ef59aaa30d7ca3bccb411858976b3a86d91b1060458d98dc7ff45af
+Section: 其它
+Description: ios16dao 激活码生成器（离线 App 版）。
+ 输入 12 位设备码，生成 18 位激活码，支持一键复制；算法与页面完全内置，
+ 不联网、不注入任何进程。
+Name: Rein 激活码生成器
+Author: Rein
