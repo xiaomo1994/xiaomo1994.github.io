@@ -1,0 +1,16 @@
+Origin: https://github.com/xiaomo1994/xiaomo1994.github.io/branches
+Label: https://github.com/xiaomo1994/xiaomo1994.github.io/branches
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: https://github.com/xiaomo1994/xiaomo1994.github.io/branches
+Support: https://xiaomo1994.github.io/
+Icon: https://xiaomo1994.github.io/CydiaIcon.png
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e  0 Packages
+ 28f637f581eafde8f405e5b0f47c4b28  29 Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  0 Packages
+ 1ca77ab8d1caff301c58b9fef07d22d919dadeff5ac3de29b5c0ae80433f4d5b  29 Packages.gz
