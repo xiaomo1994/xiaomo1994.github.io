@@ -16,6 +16,26 @@ Name: ScreenShell Pro
 Author: Axs <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 
+Package: com.netskao.storeswitchaccounts
+Architecture: iphoneos-arm64e
+Version: 1.1-4
+Maintainer: Netskao
+Installed-Size: 460
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64e.deb
+Size: 137730
+MD5sum: 85e23a91946303dbf5ca9d4b549193db
+SHA1: 6a67416c06614ee045a9c5c4ed786144a1dccdd5
+SHA256: f9e2182ace6a012fd1ca4b4b8682cbe709635e05f90277ab36533bc495277df4
+SHA512: 237d3ba9e06beca37452c4e66a3ac74b6e5dd02c282f6a16697945b1ea6e1601f43f38b747cdcaa15516d439f5e446ef9b4dcb3003b291e78d87e66a9bd677b5
+Section: 其它
+Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
+Author: Netskao
+Name: 商店帐号切换
+Icon: https://axs66.github.io/pro/icon/appstore.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
 Package: com.rein.keygen
 Architecture: iphoneos-arm64e
 Version: 1.0.6
