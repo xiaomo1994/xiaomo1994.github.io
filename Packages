@@ -106,6 +106,25 @@ Name: 商店帐号切换
 Icon: https://axs66.github.io/pro/icon/appstore.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64e
+Version: 5.0.1-2
+Maintainer: TIGI Software
+Installed-Size: 28321
+Depends: firmware (>= 15.0), com.mlgm.filzapatch
+Recommends: zip, tar
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: debs/com.tigisoftware.filza64bit_5.0.1-2_iphoneos-arm64e.deb
+Size: 11222784
+MD5sum: 777291dd94543c3c5a6e3edc01259d81
+SHA1: c6924019be8194718197fbcfd400be6fd09c725b
+SHA256: f73d3cdfb8ae3d1a824de2014df7c24ca77b459ade027096e1a48c0b52fce147
+SHA512: 4f7632e3ce2e22ea7d4e02222bf312606907f44147fdf071c922f0201865c701327b53d5323a9d59625c1c9c7d5272a84cca21adc874d5fe8fbe51a4741fcf70
+Section: 其它
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 15+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: com.rein.keygen
 Architecture: iphoneos-arm64e
 Version: 1.0.6
