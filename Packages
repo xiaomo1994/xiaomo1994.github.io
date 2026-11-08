@@ -16,58 +16,6 @@ Name: ScreenShell Pro
 Author: Axs <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 
-Package: com.axs.cpufree
-Architecture: iphoneos-arm64
-Version: 5.2.0-5
-Maintainer: Axs
-Installed-Size: 1200
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.axs.cpufree_5.2.0-5_iphoneos-arm64.deb
-Size: 77336
-MD5sum: 728d31b36381f4d3ae58c21bb84436c4
-SHA1: 726ca23647dc36c4e4a62fee89405cc99e1a35e4
-SHA256: 11e7a3c9c0759ceaf59eb3196dc0258168f6ce5ac1604b9c582d18065df245c9
-SHA512: 1ae85a08d1d53eeaf4cb8dccadca7d638e2be3224826003feeefd7bbe601c196507439d3eec6927a7ba5b4edec0788269d5d4ee932928918b94813a71c1f02f8
-Section: 其它
-Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
- * 一、双防护层拦截
- * 1. IOKit 层：拦截传感器温度读取、降频指令、限频属性写入和高温广播，从源头掐断降频动作；
- * 2. ObjC 层：钩住内部决策类，阻止决策树评估、软化控制力度、改写热配置表，并把热状态重置为正常。
- * 二、双功率模式
- * 1. 防温控：减少降频、防止降亮度，重载场景尽量维持满血频率；
- * 2. 低功耗：限制 CPU 最高 2016MHz，不抬高待机频率，兼顾省电与性能。
- * 三、独立开关
- * 1. CPU 防降频、屏幕防降亮度、屏蔽高温提醒（含设置内的散热建议）均可单独开关；
- * 2. 保留 70°C 安全阀：温度超过 70°C 或读温失败时自动放行系统保护，防止异常发热与黑屏。
- * 四、控制中心模块
- * 1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；
- * 2. CPU频率显示：实时显示大核真实频率，低功耗模式下上限 2016MHz。
- * 五、机型适配
- * 1. 内置 A11–A17 Pro 大核频率表（2390 / 2490 / 2650 / 3090 / 3230 / 3460 / 3780MHz），按机型自动匹配上限。
-Name: CPU Free
-Author: Axs
-Icon: https://axs66.github.io/pro/icon/cpufree.png
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
-
-Package: byg.iosios.net.mango
-Architecture: iphoneos-arm64
-Version: 1.0-Beta4-2
-Maintainer: 搬运工
-Installed-Size: 3548
-Depends: mobilesubstrate
-Filename: debs/mango芒果分屏_交流版.deb
-Size: 904692
-MD5sum: 969650aa86b79df6a8bfc2781401e33f
-SHA1: 231ba8ad1dd69258cf6a8fc119bcbd841b7f8e00
-SHA256: 265643a62b7a25f80b8cc24cc41d4d3d76f425d70a9409e63f753cbfcfc5b559
-SHA512: c3d1ce24aac3e3edbb54c8089c28fadb8885bf3488b85945c3dc48dfcea2d75a892ca8fa12980e79c98bf81bca731b9f9c9b76f21c9372c109e4ace1ec6afd50
-Section: 其它
-Description: 一款非常不错的分屏插件，需要授权才能使用，但是免费功能可以液态玻璃 视频壁纸 双击锁屏 音量键锁屏等等，还是可以的，大家可以自行看看是否是自己需要的，觉得不错的可以支持一下！
-Name: Mango芒果分屏
-Author: go
-Sponsor: 搬运工
-Icon: https://chinesebuilding.club/pic/cydia.png
-
 Package: com.rein.keygen
 Architecture: iphoneos-arm64e
 Version: 1.0.6
