@@ -35,3 +35,22 @@ Description: ios16dao 激活码生成器（离线 App 版）。
  不联网、不注入任何进程。
 Name: Rein 激活码生成器
 Author: Rein
+
+Package: local.amap.twotabs
+Architecture: iphoneos-arm64e
+Version: 1.1
+Maintainer: 祁厅长
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/高德地图1.1_iphoneos-arm64e.deb
+Size: 173566
+MD5sum: f31a402f799393ec54378fd156d5e2d6
+SHA1: 2044f05f4e3fe585ccfa77fa691d0d50478c39fb
+SHA256: abc9beb010df7b49f88a7001597354fb796014e498dace303ddde746ffc27ba6
+SHA512: bea112e1eb4292108b8ea243d5a3c136dd1c07e18059c22cd5debc4f2f11b18ea57c6937c475139429c42cfa019642f8d938aeb1487c8ba4f9b4d046d61aa4c5
+Section: 其它
+Description: 人民的高德，不忘初心砥砺前行
+Name: 人民的高德
+Icon: https://qi-ting-zhang.github.io/sileo/images/icon/rmdgd.png
+Sileodepiction: https://qi-ting-zhang.github.io/sileo/sileodepiction/rmdgd.json
+Author: 祁厅长
