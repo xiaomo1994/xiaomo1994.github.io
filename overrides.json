@@ -7,5 +7,10 @@
     "name": "免受权",
     "desc": "",
     "keyType": "package"
+  },
+  "pkg:com.dao.kwcrack": {
+    "name": "酷我破解vip",
+    "desc": "",
+    "keyType": "package"
   }
 }
