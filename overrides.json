@@ -12,5 +12,9 @@
     "name": "酷我破解vip",
     "desc": "",
     "keyType": "package"
+  },
+  "com.rain.rainback_1.6.4-4_debug_iphoneos-arm64e.deb": {
+    "name": "rain返回",
+    "desc": "免受权"
   }
 }
