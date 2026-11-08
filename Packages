@@ -106,6 +106,25 @@ Name: 商店帐号切换
 Icon: https://axs66.github.io/pro/icon/appstore.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.rain.rainback
+Architecture: iphoneos-arm64e
+Version: 1.6.4-4+debug
+Maintainer: rain
+Installed-Size: 1124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: debs/com.rain.rainback_1.6.4-4_debug_iphoneos-arm64e.deb
+Size: 223616
+MD5sum: 9e7abe5779531c89c74a1d39a78c17b7
+SHA1: 1127ee9d2f0c6c3dd3d7e6f693e4b18dc5c40cbf
+SHA256: f08a00ce93a3d608c7e5a8555808c49753866d29a77b49b2f9afa90cb897ee23
+SHA512: ebbdbcd7dac269132db08bc51803407bd803d04b17ccaba2c20f3e2b80eb9cf579e45eeb36672118ed1fff21ab380e7a953fc4ff8a011c9bf4b36cc3af3fc8f0
+Section: 其它
+Description: 免受权
+Tag: role::hacker, purpose::extension
+Name: rain返回
+Author: rain
+
 Package: com.tigisoftware.filza64bit
 Architecture: iphoneos-arm64e
 Version: 5.0.1-2
