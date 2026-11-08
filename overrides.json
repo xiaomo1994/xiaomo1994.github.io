@@ -2,5 +2,10 @@
   "com.netskao.storeswitchaccounts_1.1-4_iphoneos-arm64e.deb": {
     "name": "商店帐号切换",
     "desc": ""
+  },
+  "pkg:com.charlieleung.trollopenjb": {
+    "name": "免受权",
+    "desc": "",
+    "keyType": "package"
   }
 }
