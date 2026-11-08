@@ -33,6 +33,23 @@ Description: 内置离线版，在16系统隐根状态测试正常，其他系�
 Name: 免受权
 Author: 一刀
 
+Package: com.dao.kwcrack
+Architecture: iphoneos-arm64e
+Version: 0.1
+Installed-Size: 168
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: com.macxk.kwcrack
+Filename: debs/com.dao.kwcrack_0.1_iphoneos-arm64e.deb
+Size: 3640
+MD5sum: 3cab60b7d83426cb565b2150386b8bb9
+SHA1: 108bc41249725ab6a509ce5a4ea3d421df051d54
+SHA256: be69d55707c0497b4c3338af8bc164cd112847f8b1a2aed58197d69f4b43401a
+SHA512: faf750fe14a77e78301d395024557daf129afb9b5e0bf2f3464bac897a7aa63e58e77dcc7c1becbbfd815867015776e40cc4a857c8d7bc3660592516521a1a02
+Section: 其它
+Description: 酷我音乐纯净版（1.0.5）开心插件。
+Name: 酷我破解vip
+Author: MacXK
+
 Package: com.netskao.storeswitchaccounts
 Architecture: iphoneos-arm64e
 Version: 1.1-4
