@@ -4,8 +4,8 @@
     "desc": ""
   },
   "pkg:com.charlieleung.trollopenjb": {
-    "name": "免受权",
-    "desc": "",
+    "name": "",
+    "desc": "分屏免受权",
     "keyType": "package"
   },
   "pkg:com.dao.kwcrack": {
