@@ -16,6 +16,23 @@ Name: ScreenShell Pro
 Author: Axs <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 
+Package: com.charlieleung.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 1.5.2+offline.5
+Maintainer: 一刀
+Installed-Size: 55444
+Depends: firmware (>= 15.0),mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Filename: debs/com.charlieleung.trollopenjb_1.5.2_offline.5_iphoneos-arm64e.deb
+Size: 16761890
+MD5sum: d12abbab3231b73801fb8081cfce8d0b
+SHA1: d2cb238fce13f3e82e5d556b93c50729357e93e2
+SHA256: e6212d8e47f3280f417c9efef5f250ce53cc460f92112c954c71b19973056411
+SHA512: f626dfd42b917f7a99d1070a5eb63e9feb7a21356ed458ecaea8f784731737bef149f3738287aff83e3cb183070e0754a748bc7f90d3cadd1a01c463c28d1e7b
+Section: 其它
+Description: 分屏免受权
+Name: TrollOpen
+Author: 一刀
+
 Package: com.dao.kwcrack
 Architecture: iphoneos-arm64e
 Version: 0.1
