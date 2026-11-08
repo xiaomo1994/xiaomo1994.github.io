@@ -50,6 +50,42 @@ Description: 酷我音乐纯净版（1.0.5）开心插件。
 Name: 酷我破解vip
 Author: MacXK
 
+Package: com.mlgm.filzacrack
+Architecture: iphoneos-arm64
+Version: 1.0
+Maintainer: mlgm
+Installed-Size: 204
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit (>= 5.0.0~), com.tigisoftware.filza64bit (<< 6~)
+Filename: debs/com.mlgm.filzacrack_1.0_iphoneos-arm64.deb
+Size: 8322
+MD5sum: 94d3b2b5883fcc0c0ec3cdbc2300b6a7
+SHA1: 830e3a3ac4b7b47ae0a58f8cd961768842fc7524
+SHA256: 65e26b28418de86e1a455758f98d7bd934d3d3ffb0fcaf90548319d031e0665b
+SHA512: 42eb17c9c81d9dcad81df2f78d0ae5987fb53f7a3e61efb24a7fb411ea9865a40fd2355ea513383b6f5e2f1a122f5851e56caaecc5a0f78e642bd1d7ac626165
+Section: 其它
+Description: Filza 5.x 解锁完整版
+Name: Filza Crack
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/FilzaCrack.png
+
+Package: com.mlgm.filzapatch
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Maintainer: mlgm
+Installed-Size: 154
+Depends: firmware (>= 15.0), com.roothide.patchloader (>= 0.0.8), roothide (>= 0.1.0)
+Conflicts: roothide.patches.filza
+Filename: debs/com.mlgm.filzapatch_1.0.1_iphoneos-arm64e.deb
+Size: 38778
+MD5sum: fcaa25746aa2c5755f622d459852b2eb
+SHA1: 8718f02ad2d28d2634c5ab242d0faa5e0c523671
+SHA256: 15d96e0255bdc5bcd6db04036b9ee4c1e64c746e6468d18926ac8d4731cd8c72
+SHA512: 3715a3293f01712fdbe642ecba751400188e461ea8d006223d27cd926bf991828f4117ee590fff52ac297855561e6314f5584587ff749df469ee82ac793280de
+Section: 其它
+Description: Filza 5.x 的 RootHide 动态补丁
+Name: Filza Patch
+Icon: https://mlgm66.github.io/icon/FilzaPatch.png
+
 Package: com.netskao.storeswitchaccounts
 Architecture: iphoneos-arm64e
 Version: 1.1-4
