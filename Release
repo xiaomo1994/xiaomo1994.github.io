@@ -1,16 +1,16 @@
-Origin: https://xiaomo1994.github.io/
-Label: https://xiaomo1994.github.io/
+Origin: 
+Label: 
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: https://xiaomo1994.github.io/
+Description: 
 Support: https://xiaomo1994.github.io/
 Icon: https://xiaomo1994.github.io/CydiaIcon.png
 MD5Sum:
  8dca5ca37367d3361de64cdeaf064773  4676 Packages
- 9d31e52fb6d9ad806cfcbae2e5874964  2765 Packages.gz
+ 3e83f3ea4b8ccd320f0c71d220858052  2765 Packages.gz
 SHA256:
  b4da88bc58e8a25f2aa02710f322e00990752c92ec385e9323978c6fdef937fb  4676 Packages
- 2ab0b870353c0912390366e8bcfd9b377c9e45cbe61aee7405cb5b27c8c94c5c  2765 Packages.gz
+ 76937a381eb46263c8f7b6dca2956aaa06243eea426b233267146f14da5cda66  2765 Packages.gz
