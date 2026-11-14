@@ -16,5 +16,9 @@
   "com.rain.rainback_1.6.4-4_debug_iphoneos-arm64e.deb": {
     "name": "rain返回",
     "desc": "免受权"
+  },
+  "com.dao.jailfools_5.2.3-2_iphoneos-arm64e.deb": {
+    "name": "JF注入",
+    "desc": "插件注入工具"
   }
 }
