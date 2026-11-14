@@ -33,6 +33,24 @@ Description: 分屏免受权
 Name: TrollOpen
 Author: 一刀
 
+Package: com.dao.jailfools
+Architecture: iphoneos-arm64e
+Version: 5.2.3-2
+Maintainer: zqbb <zqbbzz@gmail.com>
+Depends: firmware (>= 15.0)
+Conflicts: cn.zqbb.jailfools
+Filename: debs/com.dao.jailfools_5.2.3-2_iphoneos-arm64e.deb
+Size: 4315160
+MD5sum: 3d276a9eeb69cb14fc0432b78f0a9b9d
+SHA1: bb739019e1794dade62145de4652f4444bed60fc
+SHA256: efa8b3c946384a4b3ad0dc13e78e4863913f75d4d1dbc7fd73cf34492fa3a1fb
+SHA512: 91e9ba8818ff455270c665b13c596280187db17e611bd446d5b905b97d9e1fbaaa40695e81d31105321de49dd17e37c7d6f6a4149af7bad8a958bf50e99f1a00
+Section: 其它
+Description: 插件注入工具
+Name: JF注入
+Author: zqbb <zqbbzz@gmail.com>
+SileoDepiction: https://apt.002599.xyz/web/cn.zqbb.jailfools
+
 Package: com.dao.kwcrack
 Architecture: iphoneos-arm64e
 Version: 0.1
