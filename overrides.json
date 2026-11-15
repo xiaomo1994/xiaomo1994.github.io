@@ -20,5 +20,10 @@
   "com.dao.jailfools_5.2.3-2_iphoneos-arm64e.deb": {
     "name": "JF注入",
     "desc": "插件注入工具"
+  },
+  "pkg:com.opa334.trollstorelite": {
+    "name": "巨魔",
+    "desc": "巨魔工具",
+    "keyType": "package"
   }
 }
