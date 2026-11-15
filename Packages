@@ -124,6 +124,22 @@ Name: 商店帐号切换
 Icon: https://axs66.github.io/pro/icon/appstore.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.opa334.trollstorelite
+Architecture: iphoneos-arm64e
+Version: 2.1.1-2
+Maintainer: opa334
+Installed-Size: 11424
+Filename: debs/com.opa334.trollstorelite_2.1.1-2_iphoneos-arm64e.deb
+Size: 3683204
+MD5sum: 21d1f0104f9fd8b7ee17ec29411538a8
+SHA1: 54f82d29003f2930093b0d580b9d369aafc576f4
+SHA256: 069804ccf2239098357d4f10ae0468196f616276fe3b45ea85624f5010aa8acf
+SHA512: aaa4b96a5561ecb3e620c27e2d3e1030598ea9b5a4433a1ce0f35f8cbd9c5bf8c8c8a500f8d86f58263e8b7f92c617ecb6f5740ae2651393a39f0ad4fe116104
+Section: 其它
+Description: 巨魔工具
+Name: 巨魔
+Author: opa334&iosdump
+
 Package: com.rain.rainback
 Architecture: iphoneos-arm64e
 Version: 1.6.4-4+debug
