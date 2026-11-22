@@ -124,6 +124,27 @@ Name: 商店帐号切换
 Icon: https://axs66.github.io/pro/icon/appstore.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.oakstheawesome.solo
+Architecture: iphoneos-arm64e
+Version: 1.0.1-13
+Maintainer: kanuo
+Installed-Size: 2568
+Depends: firmware (>= 15.0), ellekit | mobilesubstrate, preferenceloader
+Filename: debs/com.oakstheawesome.solo_1.0.1-13_iphoneos-arm64e.deb
+Size: 646910
+MD5sum: dd81ac51817a78da2a2196fe710b5a5f
+SHA1: 7bb2140334a3598c8c96c4607ca490081cb1c8b5
+SHA256: f5f5035e6e8d4127f1072530eed9f94b4e5a54eb3a343cb7ae6902efe969cc33
+SHA512: e17dc6890d4a1e8e09532296cfd1de85ef8534c565d34bbe07e6d18f5ca187c40e27159b2da659253b169ce08ad6fd11878ebfe3cf3c298b1d25ee06c9648e7b
+Section: 其它
+Description: Solo 主屏幕轮播增强版（卡诺中文版），支持快捷标签、共享底板、侧边栏隐藏与 App 打开方式。
+ 本版：Dock 六图标、Dock/文件夹背景透明、修复建文件夹与图标丢失。
+Tag: purpose::extension, compatible::ios15/16/17/18
+Name: sol
+Author: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/depictions/solo/icon.png
+SileoDepiction: https://jimkanuo.github.io/apt-repo/depictions/com.oakstheawesome.solo.json
+
 Package: com.opa334.trollstorelite
 Architecture: iphoneos-arm64e
 Version: 2.1.1-2
